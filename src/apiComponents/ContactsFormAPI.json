@@ -1,0 +1,31 @@
+[
+  {
+    "id" : "1",
+    "Label" : "Full Name",
+    "controlId" : "formFullName",
+    "placeholder" : "Input Full Name",
+    "name" : "fullName",
+    "value" : "values.fullName"
+  },{
+    "id" : "2",
+    "Label" : "Mobile",
+    "controlId" : "formMobile",
+    "placeholder" : "Input Mobile",
+    "name" : "mobile",
+    "value" : "values.mobile"
+  },{
+    "id" : "3",
+    "Label" : "Email",
+    "controlId" : "formEmail",
+    "placeholder" : "Input E-mail",
+    "name" : "email",
+    "value" : "values.email"
+  },{
+    "id" : "4",
+    "Label" : "Address",
+    "controlId" : "formAddress",
+    "placeholder" : "Input Address",
+    "name" : "address",
+    "value" : "values.address"
+  }
+]
